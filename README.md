@@ -10,7 +10,7 @@ Bài tập môn Automata và Ngôn ngữ hình thức(Lý thuyết ngôn ngữ h
 - dòng 5: độ dài của ngôn ngữ.
 - Các dòng tiếp theo: các hàm truyền (tập cạnh của NFA).
 ## Chạy chương trình:
-#### * Chương trình sẽ đọc data từ các file ví dụ (1, 2, 3, 4.nfa) và xuất ra màn hình console:*
+*#### Chương trình sẽ đọc data từ các file ví dụ (1, 2, 3, 4.nfa) và xuất ra màn hình console: *
 - Thông tin dữ liệu input.
 - Cách xây dựng các tập con
 - Bảng chuyển đổi trạng thái DFA.
